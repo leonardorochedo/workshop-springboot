@@ -22,7 +22,7 @@ import com.educandoweb.course.repositories.ProductRepository;
 import com.educandoweb.course.repositories.UserRepository;
 
 @Configuration
-@Profile("test") // Configurando como teste
+@Profile("test") // Arquivo de testes manuais
 public class TestConfig implements CommandLineRunner {
 	
 	@Autowired
