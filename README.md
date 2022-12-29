@@ -2,6 +2,8 @@
 
 ## Projeto desenvolvido no curso do Nélio Alves.
 
+O projeto em si era de criar um sistema de loja, que tem desde a criação de usuários, produtos, pedidos e pagamento, tudo se relacionando entr si de uma forma hormoniosa seguindo as regras de negócio que criamos.
+
 Desenvolvemos uma API Rest com SpringBoot e o banco de dados H2 (SQL), aprendi bastante com esse projeto, a criar entidades no banco simples, relacionamentos de entidades como OneToOne, OneToMany entre outras, também aprendemos a utilizar o Hibernate do JPA que por sinal é muito bom!
 
 E claro que deixamos esse projeto todo padronizado com uma arquitetura bem bacana separando tudo como esperado para melhor manuntenção de código.
