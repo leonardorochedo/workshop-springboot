@@ -11,3 +11,9 @@ E claro que deixamos esse projeto todo padronizado com uma arquitetura bem bacan
 Gostei muito de criar as endpoints com o Spring e também a criar uam Exception para cada erro que o endpoint pudesse dar no nosso backend.
 
 No futuro planejo consumir essa API que criamos no frontend com React, porém como estou focando meus estudos para backend isso será em um futuro próximo.
+
+Diagrama de classes:
+
+![Classes](https://user-images.githubusercontent.com/62243365/210092147-b8765391-db41-486b-89b0-dc575786366d.png)
+
+Demonstração em vídeo: https://www.linkedin.com/feed/update/urn:li:ugcPost:7014628565946134528/
